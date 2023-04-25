@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Nosso Trabalho é uma página respondiva.
 
-- [Visite o projeto online](nahblue.github.io/nosso-trabalho/)
+- [Visite o projeto online](https://nahblue.github.io/nosso-trabalho/)
 
 ## :memo: Licença
 
