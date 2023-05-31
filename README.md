@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Nosso Trabalho é uma página respondiva.
+O projeto Nosso Trabalho é uma página responsiva.
 
 - [Visite o projeto online](https://nahblue.github.io/nosso-trabalho/)
 
